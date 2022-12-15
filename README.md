@@ -1,2 +1,2 @@
 # data-engineer
-data engineering prepartion
+data engineering learning resources
